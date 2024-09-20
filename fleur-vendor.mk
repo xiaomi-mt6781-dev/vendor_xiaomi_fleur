@@ -40,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fleur/proprietary/vendor/etc/camera/vidhance_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_calibration \
     vendor/xiaomi/fleur/proprietary/vendor/etc/dsi_panel_k7s_38_0c_0a_video_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_panel_k7s_38_0c_0a_video_mi.xml \
     vendor/xiaomi/fleur/proprietary/vendor/etc/dsi_panel_k7s_38_0c_0b_video_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_panel_k7s_38_0c_0b_video_mi.xml \
+    vendor/xiaomi/fleur/proprietary/vendor/etc/init/android.hardware.secure_element@1.2-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.secure_element@1.2-service-mediatek.rc \
     vendor/xiaomi/fleur/proprietary/vendor/etc/init/camerahalserver.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/camerahalserver.rc \
     vendor/xiaomi/fleur/proprietary/vendor/firmware/BT_FW.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/BT_FW.cfg \
     vendor/xiaomi/fleur/proprietary/vendor/firmware/Conf_MultipleTest.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/Conf_MultipleTest.ini \
